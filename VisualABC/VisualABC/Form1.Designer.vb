@@ -39,8 +39,8 @@ Partial Class Form1
         Me.Label4 = New System.Windows.Forms.Label()
         Me.TextBox3 = New System.Windows.Forms.TextBox()
         Me.Label5 = New System.Windows.Forms.Label()
-        Me.ComboBox1 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox2 = New System.Windows.Forms.ComboBox()
+        Me.ComboActualizar = New System.Windows.Forms.ComboBox()
+        Me.ComboDelete = New System.Windows.Forms.ComboBox()
         Me.TextBox4 = New System.Windows.Forms.TextBox()
         Me.Label6 = New System.Windows.Forms.Label()
         Me.Button2 = New System.Windows.Forms.Button()
@@ -87,7 +87,7 @@ Partial Class Form1
         '
         'TabActualizar
         '
-        Me.TabActualizar.Controls.Add(Me.ComboBox1)
+        Me.TabActualizar.Controls.Add(Me.ComboActualizar)
         Me.TabActualizar.Controls.Add(Me.TextBox3)
         Me.TabActualizar.Controls.Add(Me.Label5)
         Me.TabActualizar.Controls.Add(Me.Button1)
@@ -105,7 +105,7 @@ Partial Class Form1
         '
         'TabEliminar
         '
-        Me.TabEliminar.Controls.Add(Me.ComboBox2)
+        Me.TabEliminar.Controls.Add(Me.ComboDelete)
         Me.TabEliminar.Controls.Add(Me.TextBox4)
         Me.TabEliminar.Controls.Add(Me.Label6)
         Me.TabEliminar.Controls.Add(Me.Button2)
@@ -230,21 +230,21 @@ Partial Class Form1
         Me.Label5.TabIndex = 10
         Me.Label5.Text = "ID"
         '
-        'ComboBox1
+        'ComboActualizar
         '
-        Me.ComboBox1.FormattingEnabled = True
-        Me.ComboBox1.Location = New System.Drawing.Point(422, 39)
-        Me.ComboBox1.Name = "ComboBox1"
-        Me.ComboBox1.Size = New System.Drawing.Size(225, 21)
-        Me.ComboBox1.TabIndex = 12
+        Me.ComboActualizar.FormattingEnabled = True
+        Me.ComboActualizar.Location = New System.Drawing.Point(422, 39)
+        Me.ComboActualizar.Name = "ComboActualizar"
+        Me.ComboActualizar.Size = New System.Drawing.Size(225, 21)
+        Me.ComboActualizar.TabIndex = 12
         '
-        'ComboBox2
+        'ComboDelete
         '
-        Me.ComboBox2.FormattingEnabled = True
-        Me.ComboBox2.Location = New System.Drawing.Point(416, 53)
-        Me.ComboBox2.Name = "ComboBox2"
-        Me.ComboBox2.Size = New System.Drawing.Size(225, 21)
-        Me.ComboBox2.TabIndex = 20
+        Me.ComboDelete.FormattingEnabled = True
+        Me.ComboDelete.Location = New System.Drawing.Point(416, 53)
+        Me.ComboDelete.Name = "ComboDelete"
+        Me.ComboDelete.Size = New System.Drawing.Size(225, 21)
+        Me.ComboDelete.TabIndex = 20
         '
         'TextBox4
         '
@@ -340,7 +340,7 @@ Partial Class Form1
     Friend WithEvents Label2 As System.Windows.Forms.Label
     Friend WithEvents Label1 As System.Windows.Forms.Label
     Friend WithEvents TabActualizar As System.Windows.Forms.TabPage
-    Friend WithEvents ComboBox1 As System.Windows.Forms.ComboBox
+    Friend WithEvents ComboActualizar As System.Windows.Forms.ComboBox
     Friend WithEvents TextBox3 As System.Windows.Forms.TextBox
     Friend WithEvents Label5 As System.Windows.Forms.Label
     Friend WithEvents Button1 As System.Windows.Forms.Button
@@ -349,7 +349,7 @@ Partial Class Form1
     Friend WithEvents Label3 As System.Windows.Forms.Label
     Friend WithEvents Label4 As System.Windows.Forms.Label
     Friend WithEvents TabEliminar As System.Windows.Forms.TabPage
-    Friend WithEvents ComboBox2 As System.Windows.Forms.ComboBox
+    Friend WithEvents ComboDelete As System.Windows.Forms.ComboBox
     Friend WithEvents TextBox4 As System.Windows.Forms.TextBox
     Friend WithEvents Label6 As System.Windows.Forms.Label
     Friend WithEvents Button2 As System.Windows.Forms.Button
