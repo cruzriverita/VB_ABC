@@ -1,0 +1,10 @@
+C:\Users\RobsonCruz\Documents\Visual Studio 2013\Projects\VB_ABC\VB_ABC\VisualABC\VisualABC\bin\Debug\VisualABC.exe.config
+C:\Users\RobsonCruz\Documents\Visual Studio 2013\Projects\VB_ABC\VB_ABC\VisualABC\VisualABC\bin\Debug\VisualABC.exe
+C:\Users\RobsonCruz\Documents\Visual Studio 2013\Projects\VB_ABC\VB_ABC\VisualABC\VisualABC\bin\Debug\VisualABC.pdb
+C:\Users\RobsonCruz\Documents\Visual Studio 2013\Projects\VB_ABC\VB_ABC\VisualABC\VisualABC\bin\Debug\VisualABC.xml
+C:\Users\RobsonCruz\Documents\Visual Studio 2013\Projects\VB_ABC\VB_ABC\VisualABC\VisualABC\obj\Debug\VisualABC.Form1.resources
+C:\Users\RobsonCruz\Documents\Visual Studio 2013\Projects\VB_ABC\VB_ABC\VisualABC\VisualABC\obj\Debug\VisualABC.Resources.resources
+C:\Users\RobsonCruz\Documents\Visual Studio 2013\Projects\VB_ABC\VB_ABC\VisualABC\VisualABC\obj\Debug\VisualABC.vbproj.GenerateResource.Cache
+C:\Users\RobsonCruz\Documents\Visual Studio 2013\Projects\VB_ABC\VB_ABC\VisualABC\VisualABC\obj\Debug\VisualABC.exe
+C:\Users\RobsonCruz\Documents\Visual Studio 2013\Projects\VB_ABC\VB_ABC\VisualABC\VisualABC\obj\Debug\VisualABC.xml
+C:\Users\RobsonCruz\Documents\Visual Studio 2013\Projects\VB_ABC\VB_ABC\VisualABC\VisualABC\obj\Debug\VisualABC.pdb
